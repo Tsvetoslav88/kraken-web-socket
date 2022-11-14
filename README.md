@@ -1,7 +1,7 @@
 # kraken-web-socket
 The Repository provides a code for integration to Kraken exchange using Kraken's Websocket Public API
 
-It fetches Order book level information on every server update, along with the best bids and asks.
+It fetches Order book level information on every server update, along with the best bids and asks for BTC/USD & ETH/USD currencies
 
 ### Tech Stack
 - JDK11
